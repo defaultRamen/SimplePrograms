@@ -1,5 +1,6 @@
+// YouTubeで昔多分流行っていたスクロールすると文字が流れるように見えるものを生成します
 // 使い方
-// コンパイルできたらjava Main <対象の文字列> <間隔数(0に近いほど動かすとなめらかになります)> <繰り返す回数>
+// コンパイルできたらjava FlowingLetters <対象の文字列> <間隔数(0に近いほど動かすとなめらかになります)> <繰り返す回数>
 
 public class FlowingLetters{
     public static void main(String[] args) {
